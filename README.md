@@ -15,6 +15,10 @@
 7. This program may do high computational and use high your cpu. This may run whether well or not based on your computer specs.  
 
 
+## Dependecies  
+
+You need to install `numpy` and `matplotlib` using `pip` or another installation method.
+
 ### Note
   
 Program is no longer maintaned since so long time. May has some critical bugs. 
