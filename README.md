@@ -2,13 +2,13 @@
 
 1. Reccomended using IDE such as Pycharm or text editor with capability run python without cmd such as Sublime Text(Recommended using SublimeREPL package to take user input) 
 
-2. IMPORTANT : put these files in the same folder
+2. IMPORTANT : put these files in the same folder  
 	a.`errorlist.py`  
-	b.`\_\_gauss\_\_.py`  
-	c.`\_\_trapezoid\_\_.py`  
-	d.`\_\_interpolate\_\_.py`  
+	b.`__gauss__.py`  
+	c.`__trapezoid__.py`  
+	d.`__interpolate__.py`  
 	e.`launcher.py`  
-	f.`\_\_regress\_\_.py`  
+	f.`__regress__.py`  
 	g.`pathfunc.py`  
 	h.`mainmenu.py`  
 	i.`main.py`  
