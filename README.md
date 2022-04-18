@@ -4,7 +4,7 @@
 
 2. Enter every input with appropriate command on screen and give attention to every command on screen carefully.  
 
-3. You can quit or stopping program with go to home and select quit option, but at any scenario, you can stop directly by send `SIGTERM` using `ctrl+c`.  
+3. You can quit or stop program with go to home and select quit option, but at any scenario, you can stop directly by send `SIGTERM` using `ctrl+c`.  
 
 4. You can import and export file by features inside the program  
 
