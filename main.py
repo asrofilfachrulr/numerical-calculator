@@ -17,7 +17,11 @@ import __trapezoid__ as trp # Trapezoidal's module
 import __regress__ as rg # Regression's module
 import pathfunc as pt # stored all path menu
 import errorlist as err # list of all error
+import os
 # -------------------------Main Program Flow-----------------------------#
+
+clearConsole = lambda: os.system('cls' if os.name in ('nt', 'dos') else 'clear')
+
 def run() : 
 	''' 
 	Trigger to run application
@@ -55,6 +59,7 @@ def AppFlow():
 	'''
 	# Make app run in cycle
 	while True :
+		clearConsole()
 		flow_state = True # state that keep the cycle
 		MainMenu_input = mm.MainMenu() # calling main menu to be shown
 		# ^ variable that get user input to decide what menu to be procced
