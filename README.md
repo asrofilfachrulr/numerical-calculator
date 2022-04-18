@@ -3,20 +3,21 @@
 1. Reccomended using IDE such as Pycharm or text editor with capability run python without cmd such as Sublime Text(Recommended using SublimeREPL package to take user input) 
 
 2. IMPORTANT : put these files in the same folder
-	a. errorlist.py
-	b.__gauss__.py
-	c.__trapezoid__.py
-	d.__interpolate__.py
-	e. launcher.py
-	f.__regress__.py
-	g. pathfunc.py
-	h. mainmenu.py
-	i. main.py
+	a.`errorlist.py`  
+	b.`\_\_gauss\_\_.py`  
+	c.`\_\_trapezoid\_\_.py`  
+	d.`\_\_interpolate\_\_.py`  
+	e.`launcher.py`  
+	f.`\_\_regress\_\_.py`  
+	g.`pathfunc.py`  
+	h.`mainmenu.py`  
+	i.`main.py`  
    Do not change anything written on above files without any consideration. Changes file may lead to program failure
-   File's name begin with "__"(underscores) means program modules which are program's core file 
-3. Open launcher.py with IDE or text editor, not reccomended with cmd or another system command line(ex : terminal on linux)  
+   File's name begin with "\_\_"(underscores) means program modules which are program's core file 
 
-4. Enter every input with appropriate command on screen and give attention to every command on screen carefully  
+3. Run `launcher.py` with bigger size of console or terminal.
+
+4. Enter every input with appropriate command on screen and give attention to every command on screen carefully.  
 
 5. You can quit or stopping program with go to home and select quit option, but at any scenario, you can stop the konsole based on your IDE or text editor.  
 
